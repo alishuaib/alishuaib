@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Ali Shuaib 👋
 
-I've enjoyed using web development to build solutions for real-world problems for over 5 years now. I started off building platformer games and discord bots in Python, and now I'm using Typescript with React/NextJS to build full stack applications. Thank god TypeScript exists, its saving lives 😆
+I've enjoyed using full stack development to build solutions for real-world problems for over 8 years now. I started off building platformer games and discord bots in Python, and now I'm using Typescript with React/NextJS to build full stack applications. Thank god TypeScript exists, its saving lives 😆
 
 I'm currently working on a LMS Assistant called [Orbite](https://gamejolt.com/games/SkyCrest/350478) to help improve online learning experience. I've also worked on [NGS Live Map](https://github.com/alishuaib/ngslivemap) to help the community of Phantasy Star Online 2: New Genesis collaboratively build a publicly accessible map.
 
